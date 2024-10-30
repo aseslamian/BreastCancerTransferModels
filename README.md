@@ -14,10 +14,16 @@ This repository provides the code used to evaluate various transfer learning mod
 - ResNet-50
 - DenseNet-121
 - Vision Transformer (ViT)
-- [Include other models as applicable]
+- ResNeXt-50
+- Vision Transformer (ViT)
+- GoogLeNet (Inception v3)
+- EfficientNet
+- MobileNet
+- SqueezeNet
 
 ### Dataset:
-- Description of the dataset(s) used for training and testing, if applicable.
+- The dataset used in this study can be found on Kaggle: [Breast Histopathology Images](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
+
 
 ## Citation
 
