@@ -15,7 +15,6 @@ This repository provides the code used to evaluate various transfer learning mod
 - DenseNet-121
 - Vision Transformer (ViT)
 - ResNeXt-50
-- Vision Transformer (ViT)
 - GoogLeNet (Inception v3)
 - EfficientNet
 - MobileNet
