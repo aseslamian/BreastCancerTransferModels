@@ -4,7 +4,7 @@ This repository contains the code and resources for the paper:
 
 **[Comparative Analysis of Transfer Learning Models for Breast Cancer Classification](https://arxiv.org/abs/2408.16859)**  
 **Authors**: Sania Eskandari, Ali Eslamian, Qiang Cheng  
-**Published**: 2024 (arXiv preprint arXiv:2408.16859)
+**Published**: SPIE Medical Imaging 2025
 
 ## Overview
 
