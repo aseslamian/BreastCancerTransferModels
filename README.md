@@ -3,6 +3,7 @@
 This repository contains the code and resources for the paper:
 
 **[Comparative Analysis of Transfer Learning Models for Breast Cancer Classification](https://arxiv.org/abs/2408.16859)**  
+**[Evaluating deep learning models for breast cancer classification: a comparative study](https://doi.org/10.1117/12.3047441)**  
 **Authors**: Sania Eskandari, Ali Eslamian, Qiang Cheng  
 **Published**: SPIE Medical Imaging 2025
 
